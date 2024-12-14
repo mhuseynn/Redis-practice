@@ -1,0 +1,17 @@
+﻿@model List<string>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redis Data</title>
+</head>
+<body>
+    <h1>Posters</h1>
+        <ul>
+            @foreach (var item in Model)
+            {
+                <img src="@item" alt="image" />
+            }
+        </ul>
+</body>
+</html>

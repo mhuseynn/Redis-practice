@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E312E80-1650-4A31-887C-3AF3A33677F2}|RedisTest\\RedisTest.csproj|c:\\users\\huseyn\\source\\repos\\redistest\\redistest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E312E80-1650-4A31-887C-3AF3A33677F2}|RedisTest\\RedisTest.csproj|solutionrelative:redistest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E312E80-1650-4A31-887C-3AF3A33677F2}|RedisTest\\RedisTest.csproj|c:\\users\\huseyn\\source\\repos\\redistest\\redistest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E312E80-1650-4A31-887C-3AF3A33677F2}|RedisTest\\RedisTest.csproj|solutionrelative:redistest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E312E80-1650-4A31-887C-3AF3A33677F2}|RedisTest\\RedisTest.csproj|c:\\users\\huseyn\\source\\repos\\redistest\\redistest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E312E80-1650-4A31-887C-3AF3A33677F2}|RedisTest\\RedisTest.csproj|solutionrelative:redistest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50069D29-2E97-4104-ACC2-AE1AFDE2893A}|RedisUI\\RedisUI.csproj|c:\\users\\huseyn\\source\\repos\\redistest\\redisui\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50069D29-2E97-4104-ACC2-AE1AFDE2893A}|RedisUI\\RedisUI.csproj|solutionrelative:redisui\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50069D29-2E97-4104-ACC2-AE1AFDE2893A}|RedisUI\\RedisUI.csproj|c:\\users\\huseyn\\source\\repos\\redistest\\redisui\\models\\redisconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50069D29-2E97-4104-ACC2-AE1AFDE2893A}|RedisUI\\RedisUI.csproj|solutionrelative:redisui\\models\\redisconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50069D29-2E97-4104-ACC2-AE1AFDE2893A}|RedisUI\\RedisUI.csproj|c:\\users\\huseyn\\source\\repos\\redistest\\redisui\\views\\redis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50069D29-2E97-4104-ACC2-AE1AFDE2893A}|RedisUI\\RedisUI.csproj|solutionrelative:redisui\\views\\redis\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50069D29-2E97-4104-ACC2-AE1AFDE2893A}|RedisUI\\RedisUI.csproj|c:\\users\\huseyn\\source\\repos\\redistest\\redisui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50069D29-2E97-4104-ACC2-AE1AFDE2893A}|RedisUI\\RedisUI.csproj|solutionrelative:redisui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50069D29-2E97-4104-ACC2-AE1AFDE2893A}|RedisUI\\RedisUI.csproj|c:\\users\\huseyn\\source\\repos\\redistest\\redisui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50069D29-2E97-4104-ACC2-AE1AFDE2893A}|RedisUI\\RedisUI.csproj|solutionrelative:redisui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisTest\\Form1.cs",
+              "RelativeDocumentMoniker": "RedisTest\\Form1.cs",
+              "ToolTip": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisTest\\Form1.cs",
+              "RelativeToolTip": "RedisTest\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:18:45.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisTest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "RedisTest\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisTest\\Form1.Designer.cs",
+              "RelativeToolTip": "RedisTest\\Form1.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:18:39.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisTest\\Program.cs",
+              "RelativeDocumentMoniker": "RedisTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisTest\\Program.cs",
+              "RelativeToolTip": "RedisTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:18:35.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisUI\\Views\\Redis\\Index.cshtml",
+              "RelativeDocumentMoniker": "RedisUI\\Views\\Redis\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisUI\\Views\\Redis\\Index.cshtml",
+              "RelativeToolTip": "RedisUI\\Views\\Redis\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T15:09:38.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedisController.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisUI\\Controllers\\RedisController.cs",
+              "RelativeDocumentMoniker": "RedisUI\\Controllers\\RedisController.cs",
+              "ToolTip": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisUI\\Controllers\\RedisController.cs",
+              "RelativeToolTip": "RedisUI\\Controllers\\RedisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:07:42.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RedisUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RedisUI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:07:24.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedisConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisUI\\Models\\RedisConfig.cs",
+              "RelativeDocumentMoniker": "RedisUI\\Models\\RedisConfig.cs",
+              "ToolTip": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisUI\\Models\\RedisConfig.cs",
+              "RelativeToolTip": "RedisUI\\Models\\RedisConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:06:47.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "RedisUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "RedisUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T15:04:27.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

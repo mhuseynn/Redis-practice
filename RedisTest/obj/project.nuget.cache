@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "1fD6O1isY6A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huseyn\\source\\repos\\RedisTest\\RedisTest\\RedisTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huseyn\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Huseyn\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Huseyn\\.nuget\\packages\\omdbapinet\\1.3.0\\omdbapinet.1.3.0.nupkg.sha512",
+    "C:\\Users\\Huseyn\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\Huseyn\\.nuget\\packages\\stackexchange.redis\\2.8.22\\stackexchange.redis.2.8.22.nupkg.sha512",
+    "C:\\Users\\Huseyn\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json' 12.0.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}
